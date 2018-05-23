@@ -1,0 +1,32 @@
+[
+  {
+    "lat": 40.832130, 
+    "lng": -73.903844,
+    "description": "<p>Bronx-Lebanon Life Recovery Center</p>"
+  },
+  {
+    "lat": 40.831577,
+    "lng": -73.919357,
+     "description": "Concourse Rehab & Nursing Center"
+  },
+  {
+    "lat": 40.836759,
+    "lng": -73.922069,
+     "description": "Columbus Center for Medical Rehabilitation"
+  },
+  {
+    "lat": 40.846258,
+    "lng": -73.904246,
+     "description": "Promesa Inc"
+  },
+  {
+    "lat": 40.853259,
+    "lng": -73.890710,
+    "description": "Bronx Gardens Rehabilitation & Nursing Center"
+  },  
+  {
+    "lat": 40.862070,
+    "lng": -73.897012,
+    "description": "Tri Center Inc"
+  }
+]
